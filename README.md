@@ -219,7 +219,7 @@ github repo
 * __Jared Heck__ - <[jarehec](https://github.com/jarehec)> | <[@jarehec](https://twitter.com/jarehec)>
 * __Brennan D Baraban__ - <[bdbaraban](https://github.com/bdbaraban)> | <[@bdov_](https://twitter.com/bdov_)>
 * __Derrick Gee__ - <[kai-dg](https://github.com/kai-dg)> | <[@the_haru_kai](https://twitter.com/the_haru_kai)>
-
+*___Oluwaseyi Akinbobola____<[olusheyi](https://github.com/Bashorun407)> <olusheyidan@gmail.com>
 ## License
 
 MIT License
